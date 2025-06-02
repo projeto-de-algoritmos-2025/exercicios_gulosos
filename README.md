@@ -18,7 +18,7 @@ Serão implementados os seguintes exercícios:
 
 # Screenshots
 
-#Instalação
+# Instalação
 Linguagem: Python
 Framework: Os códigos rodam diretamenta no LeetCode.
 
@@ -32,5 +32,5 @@ Copie o código da solução (em Python) deste repositório.
 Cole no editor e clique em ▶ Run para testar com os exemplos padrão.
 Confira se o resultado mostra "Accepted" ou se as saídas batem com o esperado.
 
-#Link de Apresentacao
+# Link de Apresentacao
 
