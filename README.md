@@ -53,7 +53,7 @@ Copie o código da solução (em Python) deste repositório.
 
 Cole no editor e clique em ▶ Run para testar com os exemplos padrão.
 
--Confira se o resultado mostra "Accepted" ou se as saídas batem com o esperado.
+Confira se o resultado mostra "Accepted" ou se as saídas batem com o esperado.
 
 # Link de Apresentacao
 
