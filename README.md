@@ -13,8 +13,8 @@ Serão implementados os seguintes exercícios:
 |--------------------|------------------|-------------|-------------|---------|
 | [LC 12](https://github.com/projeto-de-algoritmos-2025/exercicios_gulosos/blob/main/Integer_to_roman.py) | Integer to Roman | Médio | João Pedro | 
 | [LC 135](https://github.com/projeto-de-algoritmos-2025/exercicios_gulosos/blob/main/candy.py) | Candy | Difícil | João Pedro | 
-| [LC 1298](https://leetcode.com/problems/critical-connections-in-a-network/) | Maximum Candies You Can Get from Boxes | Médio | João Pedro | 
-| [LC 2162](https://leetcode.com/problems/path-with-maximum-probability/) | 	Minimum Cost to Set Cooking Time | Difícil | João Pedro | 
+| [LC 1298](https://github.com/projeto-de-algoritmos-2025/exercicios_gulosos/blob/main/resolucoes/max_candies.py) | Maximum Candies You Can Get from Boxes | Médio | João Pedro | 
+| [LC 2162](https://github.com/projeto-de-algoritmos-2025/exercicios_gulosos/blob/main/resolucoes/min_cook.py) | 	Minimum Cost to Set Cooking Time | Difícil | João Pedro | 
 
 # Screenshots
 ![print_candy](https://github.com/user-attachments/assets/697099b5-6310-4200-9171-49fd162a9d59)
