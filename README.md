@@ -40,12 +40,15 @@ Linguagem: Python
 Framework: Os códigos rodam diretamenta no LeetCode.
 
 1) Acesso ao LeetCode
+   
 -Crie uma conta gratuita em leetcode.com (se necessário).
 
 -Busque pelos problemas listados na tabela acima.
 
 3) Testando a Solução
+   
 No editor do LeetCode:
+
 -Copie o código da solução (em Python) deste repositório.
 
 -Cole no editor e clique em ▶ Run para testar com os exemplos padrão.
