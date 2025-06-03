@@ -18,12 +18,19 @@ Serão implementados os seguintes exercícios:
 
 # Screenshots
 ![print_candy](https://github.com/user-attachments/assets/697099b5-6310-4200-9171-49fd162a9d59)
+
 Integer to Roman
+
 ![print_integertoroman](https://github.com/user-attachments/assets/756a3220-eb18-4c7b-a999-2ae72fa47b1d)
+
 Candy
+
 ![print_min_cook](https://github.com/user-attachments/assets/79c4a36b-c958-4d69-ad0a-4f0bd5d71cb1)
+
 Maximum Candies You Can Get from Boxes
+
 ![print_max_candies](https://github.com/user-attachments/assets/8c7e8993-47b6-4729-b4bb-abf47c501693)
+
 Minimum Cost to Set Cooking Time
 
 
@@ -34,12 +41,15 @@ Framework: Os códigos rodam diretamenta no LeetCode.
 
 1) Acesso ao LeetCode
 -Crie uma conta gratuita em leetcode.com (se necessário).
-_Busque pelos problemas listados na tabela acima.
 
-2) Testando a Solução
+-Busque pelos problemas listados na tabela acima.
+
+3) Testando a Solução
 No editor do LeetCode:
 -Copie o código da solução (em Python) deste repositório.
+
 -Cole no editor e clique em ▶ Run para testar com os exemplos padrão.
+
 -Confira se o resultado mostra "Accepted" ou se as saídas batem com o esperado.
 
 # Link de Apresentacao
